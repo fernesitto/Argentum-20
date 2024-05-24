@@ -1,0 +1,60 @@
+[BIND1]
+Accion= 3
+hlist= 0
+invslot= 8
+
+[BIND2]
+Accion= 2
+hlist= 0
+invslot= 0
+
+[BIND3]
+Accion= 2
+hlist= 6
+invslot= 0
+
+[BIND4]
+Accion= 2
+hlist= 3
+invslot= 0
+
+[BIND5]
+Accion= 2
+hlist= 0
+invslot= 0
+
+[BIND6]
+Accion= 1
+hlist= 0
+invslot= 0
+SndString=MOD YO LEVEL 50
+
+[BIND7]
+Accion= 1
+hlist= 0
+invslot= 0
+SndString=MEDITAR
+
+[BIND8]
+Accion= 1
+hlist= 0
+invslot= 0
+SndString=MEDITAR
+
+[BIND9]
+Accion= 1
+hlist= 0
+invslot= 0
+SndString=MOD ADSDASDASADS LEVEL 1
+
+[BIND10]
+Accion= 1
+hlist= 0
+invslot= 0
+SndString=MOD ADSDASDASADS LEVEL 50
+
+[BIND11]
+Accion= 1
+hlist= 0
+invslot= 0
+SndString=MODMAPINFO PK 0

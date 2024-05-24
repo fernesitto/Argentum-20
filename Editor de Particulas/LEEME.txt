@@ -1,0 +1,1 @@
+En la carpeta init deben introducir los archivos de particles.ini y el archivo de los graficos indexados(graficos.ind)

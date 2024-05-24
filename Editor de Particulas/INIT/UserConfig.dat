@@ -1,0 +1,14 @@
+[Resolution]
+Resolution=0
+[Sounds]
+MP3=1
+Wav=0
+[CursorGRH]
+CursorGRH=1
+[Shadows]
+Shadows=1
+[DontMove]
+DontMove=1
+[VSync]
+VSync=0
+

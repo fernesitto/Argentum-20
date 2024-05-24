@@ -1,0 +1,33 @@
+[INIT]
+NumObjs=10
+
+[Obj1]	'absor +15
+Index=3682
+
+[Obj2]	basor +15 bajos
+Index=3683
+
+[Obj3]'tunica dorada
+Index=519
+
+[Obj4]'tunica dorada bajos
+Index=1957
+
+[Obj5]'gorro +20
+Index=3706
+
+[Obj6]'gorro natura
+Index=3713
+
+[Obj7]'capucha de asesino
+Index=3714
+
+[Obj8]'capucah de cuero
+Index=1774
+
+[Obj9]'sombrero reforzado +15
+Index=1739
+
+[Obj10]'vestimenta comun
+Index=32
+

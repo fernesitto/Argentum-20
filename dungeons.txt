@@ -1,0 +1,14 @@
+mausoleo	level 14-24	ya estan los levels	balanceado
+piramide	level 14-24	ya estan los levels	balanceado
+catas2		level 24-35	ya estan los levels	balanceado
+monte perdido	level 24-35	ya estan los levels	balanceado
+dungeon maravel	level 30-40	ya estan los levels	balanceado
+dungeon veril	level 35-60	ya estan los levels	balanceado
+nagas		level 35-60	ya estan los levels	balanceado
+kraken 		level 40-60	ya estan los levels	balanceado
+pitonisa	level 40-60	ya estan los levels	balanceado
+yetis		level 42-60	ya estan los levels	balanceado
+boss de yetis	level 50-60	ya estan los levels	balanceado
+dungeon magma	level 44-60	ya estan los levels	balanceado
+boss magma	level 50-60	ya estan los levels	balanceado
+

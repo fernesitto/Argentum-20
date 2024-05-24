@@ -1,0 +1,38 @@
+[INIT]
+NumArmas=11
+
+[Arma1]
+Index=1790 ' saramiana
+
+[Arma2]
+Index=1791 ' harbinger
+
+[Arma3]
+Index=3688 ' sica de fuego
+
+[Arma4]
+Index=1687 ' sica de larzul
+
+[Arma5]
+Index=1829 ' espada larzul +1
+
+[Arma6]
+Index=1786 ' daga infer
+
+[Arma7]
+Index=3175 ' Trabuco
+
+[Arma8]
+Index=3540 ' Bala de Hierro
+
+[Arma9]
+Index=3690 ' nudi de oro 
+
+[Arma10]
+Index=3693 'baculo de larzul
+
+[Arma11]
+Index=402 ' Espada Matadragones
+
+[Arma12]
+Index=15 ' daga

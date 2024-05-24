@@ -1,0 +1,11 @@
+'Tipos de donador:
+'1 #Cafecito
+'2 #Patreon -> Heroe
+'3 #Patreon -> Aventurero
+'4 #Patreon -> Leyenda
+
+[INIT]
+Cantidad=1
+
+[DONADOR]
+Donador1=ejemplo@gmail.com#4

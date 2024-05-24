@@ -1,0 +1,90 @@
+[INIT]
+NumArmaduras=29
+
+[Armadura1] 'dragon negro
+Index=1218
+
+[Armadura2] 'dragon negro bajos
+Index=1217
+
+[Armadura3] 'escudo de torre
+Index=3700 
+
+[Armadura4] 'bifurcado
+Index=3710
+
+[Armadura5] 'draong blanco bajos
+Index=3681
+
+[Armadura6] 'dragon blanco
+Index=1933
+
+[Armadura7] 'torre +1
+Index=1002
+
+[Armadura8] 'dragon verde
+Index=1937
+
+[Armadura9] 'dragon verde bajos
+Index=3679
+
+[Armadura10] 'escudo liviano
+Index=3717
+
+[Armadura11] 'dragon rojo
+Index=481
+
+[Armadura12] 'dragon rojo bajos
+Index=483
+
+[Armadura13] 'escudo leon +1
+Index=1712
+
+[Armadura14] 'placas completa +2 bajos
+Index=3719
+
+[Armadura15] 'casco pretoriano
+Index=3715
+
+[Armadura16] 'armadura de asesino bajos
+Index=1839
+
+[Armadura17] 'armadura de asesino
+Index=2895
+
+[Armadura18] 'placas completa +2
+Index=3702
+
+[Armadura19] 'reflex +15
+Index=1703
+
+[Armadura20] 'escudo dual
+Index=1687
+
+[Armadura21] 'tortuga +1
+Index=3716
+
+[Armadura22] 'Escudo arcano
+Index=1699
+
+[Armadura23] 'casco legendario
+Index=1276
+
+[Armadura24] 'casco nordico
+Index=1266
+
+[Armadura25] 'casco vikingo
+Index=3711
+
+[Armadura26] 'escudo sangriento
+Index=1001
+
+[Armadura27] 'Casco Vikingo
+Index=1079
+
+[Armadura28] 'armadura dragon legendario
+Index=1935
+
+[Armadura29] 'armadura dragon legendario bajos
+Index=3678
+
